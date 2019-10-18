@@ -11,8 +11,8 @@
 8.	`@mention` reviewers to specific parts of code where they are experts of.
 9.	In order to avoid issues getting stuck in review process / lane, define an explicit day of the week for finishing off all merge requests left
 10. Questions and discussions coming up in the merge request should considered to transferred to the code as a comment to avoid the same questions of future developers.
-11. 
+11. For code changes involving UI / UX changes, add screenshots / gifs / videos to your merge request to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ3NTQyMTksMTkwNzM3OTk2MSwtMT
+eyJoaXN0b3J5IjpbLTE3MzIxMTA1MzIsMTkwNzM3OTk2MSwtMT
 UwMjkzMjNdfQ==
 -->
