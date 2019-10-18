@@ -18,8 +18,9 @@ Even better than screenshots is a separate instance where the changes are deploy
 ## [JetBrains Best Practices](https://youtu.be/EjwD7Pi7J_0)
 1. The reviewer should not concern about whether the code compiles or not, so provide an automated CI-pipeline to guarantee compiling and tested code.
 2. As a team you should agree on code review goals before and checking the definied aspects explicitly on each review.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE2NzY5MTAsMTg5MTY2NzEzMSwtOT
-g1NDMxMDY1LDExMjk2NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkz
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTM2NDQ2MzI0NywxODkxNjY3MTMxLC05OD
+U0MzEwNjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMy
+M119
 -->
