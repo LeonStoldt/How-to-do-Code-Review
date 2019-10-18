@@ -1,4 +1,4 @@
-# Code Review - Best Practises
+# Code Review - Best Practices
 
 ## [Atlassian Summit 2016](https://www.youtube.com/watch?v=fatTnX8_ZRk&t=5s)
 1.	Restrict the scope of a merge request to one issue (implies well-designed issues in view of size)
@@ -15,8 +15,9 @@
 Even better than screenshots is a separate instance where the changes are deployed.
 12. The more lines of code a merge request has, the less amount of time will be spend by the reviewer. So keep the reviews as small as possible and push changes incrementally.
 
-
+## [JetBrains Best Practices](https://youtu.be/EjwD7Pi7J_0)
+1. Automate 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyMDcwMjExLC05ODU0MzEwNjUsMTEyOT
-Y0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbMTE5ODE2ODg5MiwtOTg1NDMxMDY1LDExMj
+k2NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
 -->
