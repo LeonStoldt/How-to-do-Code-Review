@@ -11,8 +11,10 @@
 8.	`@mention` reviewers to specific parts of code where they are experts of.
 9.	In order to avoid issues getting stuck in review process / lane, define an explicit day of the week for finishing off all merge requests left
 10. Questions and discussions coming up in the merge request should considered to transferred to the code as a comment to avoid the same questions of future developers.
-11. For code changes involving UI / UX changes, add screenshots / gifs / videos to your merge request to simplify understanding for the reviewers. (now you can assign non-technical stakeholders as well to) [Tools]
+11. For code changes involving UI / UX changes, add screenshots / gifs / videos [with Monosnap, GIPHY, ScreenFlow] to your merge request to simplify understanding for the reviewers. (now you can assign non-technical stakeholders as well to)
+Even better than screenshot
+12. s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkxMDE1NTIsMTkwNzM3OTk2MSwtMT
+eyJoaXN0b3J5IjpbLTEzNDczNzM4MTIsMTkwNzM3OTk2MSwtMT
 UwMjkzMjNdfQ==
 -->
