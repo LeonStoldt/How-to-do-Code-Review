@@ -22,9 +22,9 @@ Even better than screenshots is a separate instance where the changes are deploy
 4. Labeling comments is helpful for quick understanding the intention (e.g. Bug, Code Style, Security issue, Explanation, Design, Other).
 5. As a reviewer, you should also leave positive feedback in code reviews.
 6. Code reviews should be iterative. That way, reviewers have to read less code at once and are part of the process.
-7. Discussions in code reviews should be marked as resolved when there is no more action needed in order to make 
+7. Discussions in code reviews should be marked as resolved when there is no more action needed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI5MTk0NDQsMTg5MTY2NzEzMSwtOT
-g1NDMxMDY1LDExMjk2NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkz
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTc2Njc4MzM5MiwxODkxNjY3MTMxLC05OD
+U0MzEwNjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMy
+M119
 -->
