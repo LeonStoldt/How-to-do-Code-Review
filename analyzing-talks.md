@@ -20,9 +20,9 @@ Even better than screenshots is a separate instance where the changes are deploy
 2. As a team you should agree on code review goals before and checking the definied aspects explicitly on each review.
 3. Create merge requests linked to a branch (and so to a specific ticket) if useful.
 4. Labeling comments is helpful for quick understanding the intention (e.g. Bug, Code Style, Security issue, Explanation, Design, Other)
-5. 
+5. As a reviewer, you should also leave positive feedback 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQxMzE2OTgsMTg5MTY2NzEzMSwtOT
+eyJoaXN0b3J5IjpbLTEyNzg3NzI1MjIsMTg5MTY2NzEzMSwtOT
 g1NDMxMDY1LDExMjk2NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkz
 MjNdfQ==
 -->
