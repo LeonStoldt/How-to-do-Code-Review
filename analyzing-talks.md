@@ -5,7 +5,8 @@
 2.	Mapping between features and branches makes the workflow easier (new changes to the issue cause new changes to the branch and so to the merge request)
 3.	Mirror the process / workflow to Jira (or other issue tracking systems) to implement the review process to the workflow
 4.	Let the merge request be approved by at least two other developers
-5.	Assign the merge request to a minimum of three developers to avoid w in case someone is overloaded or sick
+5.	Assign the merge request to a minimum of three developers to avoid waiting times for cases like someone is overloaded or sick
+6.	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNDUwNjM3XX0=
+eyJoaXN0b3J5IjpbLTYzNTg4NTg2OV19
 -->
