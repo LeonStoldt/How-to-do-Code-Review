@@ -16,8 +16,8 @@ Even better than screenshots is a separate instance where the changes are deploy
 12. The more lines of code a merge request has, the less amount of time will be spend by the reviewer. So keep the reviews as small as possible and push changes incrementally.
 
 ## [JetBrains Best Practices](https://youtu.be/EjwD7Pi7J_0)
-1. Automate 
+1. The reviewer should not concern about whether the code compiles or not, so provide an automated CI-pipeline to guarantee compiling 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODE2ODg5MiwtOTg1NDMxMDY1LDExMj
+eyJoaXN0b3J5IjpbLTU3NDc2NDU0MCwtOTg1NDMxMDY1LDExMj
 k2NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
 -->
