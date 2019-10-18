@@ -7,7 +7,7 @@
 4.	Let the merge request be approved by at least two other developers
 5.	Assign the merge request to a minimum of three developers to avoid waiting times for cases like someone is overloaded or sick
 6.	Do not assign to many reviewers in light of the fact too many will reduce the number of errors found. In addition, it will lower the invested time, the more reviewers are assigned.
-7.	Pick your reviewers by taking a look at git-blame in order to assign it to the author. If you are having problems to find other candidates, take a look at git-guilt aswell to see the 
+7.	Pick your reviewers by taking a look at git-blame in order to assign it to the author. If you are having problems to find other candidates, take a look at git-guilt aswell to see who else was involved over time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNDE5MTUxLC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbLTEzNzI0Mjg1OTYsLTE1MDI5MzIzXX0=
 -->
