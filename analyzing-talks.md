@@ -13,8 +13,8 @@
 10. Questions and discussions coming up in the merge request should considered to transferred to the code as a comment to avoid the same questions of future developers.
 11. For code changes involving UI / UX changes, add screenshots / gifs / videos [with Monosnap, GIPHY, ScreenFlow] to your merge request to simplify understanding for the reviewers. (now you can assign non-technical stakeholders as well to)
 Even better than screenshots is a separate instance where the changes are deployed.
-12. s
+12. The more lines of code a merge request has, the less amount of time will be spend by the reviewer. So keep the reviews as small as possible and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNT
-AyOTMyM119
+eyJoaXN0b3J5IjpbMTYwMjgwMDMsMTEyOTY0NTU4MSwxOTA3Mz
+c5OTYxLC0xNTAyOTMyM119
 -->
