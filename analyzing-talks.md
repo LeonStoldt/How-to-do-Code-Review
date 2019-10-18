@@ -10,7 +10,7 @@
 7.	Pick your reviewers by taking a look at git-blame in order to assign it to the author. If you are having problems to find other candidates, take a look at git-guilt as well to see who else was involved over time.
 8.	`@mention` reviewers to specific parts of code where they are experts of.
 9.	In order to avoid issues getting stuck in review process / lane, define an explicit day of the week for finishing off all merge requests left
-10. Questions and discussions coming up in the merge request should considered to be 
+10. Questions and discussions coming up in the merge request should considered to transferred to the code as a comment to avoid the same questions of future developers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODQxMjY0LC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbMTkwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
 -->
