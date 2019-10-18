@@ -19,9 +19,9 @@ Even better than screenshots is a separate instance where the changes are deploy
 1. The reviewer should not concern about whether the code compiles or not, so provide an automated CI-pipeline to guarantee compiling and tested code.
 2. As a team you should agree on code review goals before and checking the definied aspects explicitly on each review.
 3. Create merge requests linked to a branch (and so to a specific ticket) if useful.
-4. Labeling comments is helpful for quick understanding the intention (e.g. Bug, Code Style, Security issue, Explanation)
+4. Labeling comments is helpful for quick understanding the intention (e.g. Bug, Code Style, Security issue, Explanation, Other)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NTM4MjM1LDE4OTE2NjcxMzEsLTk4NT
-QzMTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLTE1MDI5MzIz
-XX0=
+eyJoaXN0b3J5IjpbMTk0MDAzNDYyNywxODkxNjY3MTMxLC05OD
+U0MzEwNjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMy
+M119
 -->
