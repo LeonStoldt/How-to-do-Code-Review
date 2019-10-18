@@ -4,7 +4,8 @@
 1.	Restrict the scope of a merge request to one issue (implies well-designed issues in view of size)
 2.	Mapping between features and branches makes the workflow easier (new changes to the issue cause new changes to the branch and so to the merge request)
 3.	Mirror the process / workflow to Jira (or other issue tracking systems) to implement the review process to the workflow
-4.	Assign 
+4.	Let the merge request be approved by at least two other developers
+5.	Assign the merge request to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTk3NTk0MV19
+eyJoaXN0b3J5IjpbMTE1MjA4NTg4MF19
 -->
