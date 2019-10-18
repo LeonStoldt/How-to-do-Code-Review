@@ -21,9 +21,10 @@ Even better than screenshots is a separate instance where the changes are deploy
 3. Create merge requests linked to a branch (and so to a specific ticket) if useful.
 4. Labeling comments is helpful for quick understanding the intention (e.g. Bug, Code Style, Security issue, Explanation, Design, Other).
 5. As a reviewer, you should also leave positive feedback in code reviews.
-6. Code reviews should be iterative. That way, reviewers have to read less code at once
+6. Code reviews should be iterative. That way, reviewers have to read less code at once and are part of the process.
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzg5MDAwMSwxODkxNjY3MTMxLC05OD
+eyJoaXN0b3J5IjpbLTUzNjU3OTQ5NSwxODkxNjY3MTMxLC05OD
 U0MzEwNjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMy
 M119
 -->
