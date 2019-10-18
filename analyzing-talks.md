@@ -6,7 +6,7 @@
 3.	Mirror the process / workflow to Jira (or other issue tracking systems) to implement the review process to the workflow
 4.	Let the merge request be approved by at least two other developers
 5.	Assign the merge request to a minimum of three developers to avoid waiting times for cases like someone is overloaded or sick
-6.	Do not assign to many reviewers in light of the fact too many will reduce the number of errors found and invested time, the more reviewers will be assigned
+6.	Do not assign to many reviewers in light of the fact too many will reduce the number of errors found. In addition, it will lower the invested time, the more reviewers are assigned
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTY1NDMwOSwtMTUwMjkzMjNdfQ==
+eyJoaXN0b3J5IjpbMTU1Mjc0NDc1MywtMTUwMjkzMjNdfQ==
 -->
