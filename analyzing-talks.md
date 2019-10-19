@@ -30,12 +30,12 @@ Even better than screenshots is a separate instance where the changes are deploy
 
 ## [Code Review Best Practices](https://youtu.be/hVJGu0xdXII)
 1.	Aim of code reviews
--	it is an addition to static code analysis due to the aspects, software like sonarq
+-	it is an addition to static code analysis due to the aspects, software like sonarqube cannot evaluate readability 
 2.	When to do code reviews
 3.	How to do code reviews
 4.	What do you look for in code reviews
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTEwNzUyMTAsMTc1MDcwMjI5MiwxMD
+eyJoaXN0b3J5IjpbLTEwMzIyMDI4MjgsMTc1MDcwMjI5MiwxMD
 E4MTEzODYxLDEzODUzOTY3MzQsMTc2Njc4MzM5MiwxODkxNjY3
 MTMxLC05ODU0MzEwNjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC
 0xNTAyOTMyM119
