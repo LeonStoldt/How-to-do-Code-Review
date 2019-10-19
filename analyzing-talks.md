@@ -32,13 +32,14 @@ Even better than screenshots is a separate instance where the changes are deploy
 1.	Aim of code reviews
 -	it is an addition to static code analysis due to the aspects, software like sonarqube has its limitations (it cannot evaluate readability or naming of variables, methods etc.)
 -	it adds value to your system in view of maintainability (e.g. readability), operations (e.g. proper exception handling), scalability and performance
--	it adds value to your team / people by sharing knowledge and gaining new experiences
+-	it adds value to your team / people by sharing knowledge and gaining new experiences among each other
+-	
 2.	When to do code reviews
 3.	How to do code reviews
 4.	What do you look for in code reviews
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg1OTA1MzQsLTE0NDk5NzEzMTAsMT
-c1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3MzQsMTc2Njc4
-MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNjUsMTEyOTY0NTU4MS
-wxOTA3Mzc5OTYxLC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NT
+A3MDIyOTIsMTAxODExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMz
+OTIsMTg5MTY2NzEzMSwtOTg1NDMxMDY1LDExMjk2NDU1ODEsMT
+kwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
 -->
