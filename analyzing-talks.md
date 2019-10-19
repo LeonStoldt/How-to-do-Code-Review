@@ -33,13 +33,13 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	it is an addition to static code analysis due to the aspects, software like sonarqube has its limitations (it cannot evaluate readability or naming of variables, methods etc.)
 -	it adds value to your system in view of maintainability (e.g. readability), operations (e.g. proper exception handling), scalability and performance
 -	it adds value to your team / people by sharing knowledge and gaining new experiences among each other
--	
+-	it adds value to your team by identifying best practices and common patterns / mistakes
 2.	When to do code reviews
 3.	How to do code reviews
 4.	What do you look for in code reviews
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NT
-A3MDIyOTIsMTAxODExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMz
-OTIsMTg5MTY2NzEzMSwtOTg1NDMxMDY1LDExMjk2NDU1ODEsMT
-kwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
+eyJoaXN0b3J5IjpbMTkyOTMwMTA1MSwyMzc0NzUxNjAsLTE0ND
+k5NzEzMTAsMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3
+MzQsMTc2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNjUsMT
+EyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
 -->
