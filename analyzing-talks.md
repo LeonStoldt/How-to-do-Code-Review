@@ -15,6 +15,8 @@
 Even better than screenshots is a separate instance where the changes are deployed.
 12. The more lines of code a merge request has, the less amount of time will be spend by the reviewer. So keep the reviews as small as possible and push changes incrementally.
 
+- https://www.atlassian.com/blog/archives/git-guilt-blame-code-review](https://www.atlassian.com/blog/archives/git-guilt-blame-code-review)
+- [https://www.atlassian.com/blog/archives/creating_optimal_reviews](https://www.atlassian.com/blog/archives/creating_optimal_reviews)
 
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
 1. The reviewer should not concern about whether the code compiles or not, so provide an automated CI-pipeline to guarantee compiling and tested code.
@@ -26,7 +28,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 7. Discussions in code reviews should be marked as resolved when there is no more action needed.
 8. As a team, agree on criteria for closing a review. It can be necessary that all assignees need to approve or just a subset.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzI5ODYzNywxMDE4MTEzODYxLDEzOD
+eyJoaXN0b3J5IjpbMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzOD
 UzOTY3MzQsMTc2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEw
 NjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
 -->
