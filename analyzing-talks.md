@@ -27,8 +27,11 @@ Even better than screenshots is a separate instance where the changes are deploy
 6. Code reviews should be iterative. That way, reviewers have to read less code at once and are part of the process.
 7. Discussions in code reviews should be marked as resolved when there is no more action needed.
 8. As a team, agree on criteria for closing a review. It can be necessary that all assignees need to approve or just a subset.
+
+## Code Review Best Practiceshttps://youtu.be/hVJGu0xdXII)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzOD
-UzOTY3MzQsMTc2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEw
-NjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbMTI5MDc2OTkwMywxNzUwNzAyMjkyLDEwMT
+gxMTM4NjEsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2Njcx
+MzEsLTk4NTQzMTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLT
+E1MDI5MzIzXX0=
 -->
