@@ -30,12 +30,13 @@ Even better than screenshots is a separate instance where the changes are deploy
 
 ## [Code Review Best Practices](https://youtu.be/hVJGu0xdXII)
 1.	Aim of code reviews
+-	
 2.	When to do code reviews
 3.	How to do code reviews
-4.	Whats 
+4.	What do you look for in code reviews
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NTYxMTUwLDE3NTA3MDIyOTIsMTAxOD
-ExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMzOTIsMTg5MTY2NzEz
-MSwtOTg1NDMxMDY1LDExMjk2NDU1ODEsMTkwNzM3OTk2MSwtMT
-UwMjkzMjNdfQ==
+eyJoaXN0b3J5IjpbMTI2ODgxNTkzNywxNzUwNzAyMjkyLDEwMT
+gxMTM4NjEsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2Njcx
+MzEsLTk4NTQzMTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLT
+E1MDI5MzIzXX0=
 -->
