@@ -28,10 +28,14 @@ Even better than screenshots is a separate instance where the changes are deploy
 7. Discussions in code reviews should be marked as resolved when there is no more action needed.
 8. As a team, agree on criteria for closing a review. It can be necessary that all assignees need to approve or just a subset.
 
-## Code Review Best Practiceshttps://youtu.be/hVJGu0xdXII)
+## [Code Review Best Practices](https://youtu.be/hVJGu0xdXII)
+1.	Aim of code reviews
+2.	When to do code reviews
+3.	How to do code reviews
+4.	Whats 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDc2OTkwMywxNzUwNzAyMjkyLDEwMT
-gxMTM4NjEsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2Njcx
-MzEsLTk4NTQzMTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLT
-E1MDI5MzIzXX0=
+eyJoaXN0b3J5IjpbOTk0NTYxMTUwLDE3NTA3MDIyOTIsMTAxOD
+ExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMzOTIsMTg5MTY2NzEz
+MSwtOTg1NDMxMDY1LDExMjk2NDU1ODEsMTkwNzM3OTk2MSwtMT
+UwMjkzMjNdfQ==
 -->
