@@ -34,12 +34,13 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	it adds value to your system in view of maintainability (e.g. readability), operations (e.g. proper exception handling), scalability and performance
 -	it adds value to your team / people by sharing knowledge and gaining new experiences among each other
 -	it adds value to your team by identifying best practices and common patterns / mistakes
-2.	When to do code reviews
+2.	When to do code reviews - 
 3.	How to do code reviews
 4.	What do you look for in code reviews
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTMwMTA1MSwyMzc0NzUxNjAsLTE0ND
-k5NzEzMTAsMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3
-MzQsMTc2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNjUsMT
-EyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbMjA4OTE4MTQ5OCwxOTI5MzAxMDUxLDIzNz
+Q3NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4
+NjEsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2NjcxMzEsLT
+k4NTQzMTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLTE1MDI5
+MzIzXX0=
 -->
