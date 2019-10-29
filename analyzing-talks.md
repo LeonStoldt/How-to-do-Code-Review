@@ -37,10 +37,14 @@ Even better than screenshots is a separate instance where the changes are deploy
 2.	When to do code reviews - 3:15
 3.	How to do code reviews
 4.	What do you look for in code reviews
+
+
+Notes:
+-[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MTY1MzI3LDE5MjkzMDEwNTEsMjM3ND
-c1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3MDIyOTIsMTAxODExMzg2
-MSwxMzg1Mzk2NzM0LDE3NjY3ODMzOTIsMTg5MTY2NzEzMSwtOT
-g1NDMxMDY1LDExMjk2NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkz
-MjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMzU0MDU4ODIsOTE1MTY1MzI3LDE5Mj
+kzMDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3MDIy
+OTIsMTAxODExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMzOTIsMT
+g5MTY2NzEzMSwtOTg1NDMxMDY1LDExMjk2NDU1ODEsMTkwNzM3
+OTk2MSwtMTUwMjkzMjNdfQ==
 -->
