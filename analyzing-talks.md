@@ -25,6 +25,8 @@ Even better than screenshots is a separate instance where the changes are deploy
 		-	split reviews if there are independent parts
 		-	guide the reviewer how to review it
 	-	do not review with too many reviewers
+		-	select reviewers carefully
+		-	tell reviewers individually what they should review
 
 
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
@@ -76,11 +78,11 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA5NjE0NTAsLTE3NDM1MTYxMjAsLT
-UzNzkxNTg5OSwxNDYwMTMzOTYwLC00Njk1NDA0NDYsMTcwNDUy
-NDEyOCwtMjAzNTQwNTg4Miw5MTUxNjUzMjcsMTkyOTMwMTA1MS
-wyMzc0NzUxNjAsLTE0NDk5NzEzMTAsMTc1MDcwMjI5MiwxMDE4
-MTEzODYxLDEzODUzOTY3MzQsMTc2Njc4MzM5MiwxODkxNjY3MT
-MxLC05ODU0MzEwNjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0x
-NTAyOTMyM119
+eyJoaXN0b3J5IjpbLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNT
+M3OTE1ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0
+MTI4LC0yMDM1NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLD
+IzNzQ3NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgx
+MTM4NjEsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2NjcxMz
+EsLTk4NTQzMTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLTE1
+MDI5MzIzXX0=
 -->
