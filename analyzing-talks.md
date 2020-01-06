@@ -22,8 +22,10 @@ Even better than screenshots is a separate instance where the changes are deploy
 	- responsibility for the code is spread to more than one person
 - [https://www.atlassian.com/blog/archives/creating_optimal_reviews](https://www.atlassian.com/blog/archives/creating_optimal_reviews)
 	-	do not overload the code review (e.g. too many files) - this causes [less time spent per file](http://atlassianblog.wpengine.com/developer/assets_c/2011/07/mt-perfile-thumb-500x264-7288.png)
+		-	split reviews if there are independent parts
+		-	guide the reviewer how to review it
 	-	do not review with too many reviewers
-	-	split reviews if they are independent parts
+
 
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
 1. The reviewer should not concern about whether the code compiles or not, so provide an automated CI-pipeline to guarantee compiling and tested code.
@@ -74,7 +76,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU5NTgyMTMsLTE3NDM1MTYxMjAsLT
+eyJoaXN0b3J5IjpbLTEzMjA5NjE0NTAsLTE3NDM1MTYxMjAsLT
 UzNzkxNTg5OSwxNDYwMTMzOTYwLC00Njk1NDA0NDYsMTcwNDUy
 NDEyOCwtMjAzNTQwNTg4Miw5MTUxNjUzMjcsMTkyOTMwMTA1MS
 wyMzc0NzUxNjAsLTE0NDk5NzEzMTAsMTc1MDcwMjI5MiwxMDE4
