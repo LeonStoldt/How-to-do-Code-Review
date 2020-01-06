@@ -61,15 +61,16 @@ Even better than screenshots is a separate instance where the changes are deploy
 	-	session usage
 	-	object creation
 -	language specifics
-	-	
+
 
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMTE1NTMsMTcwNDUyNDEyOCwtMjAzNT
-QwNTg4Miw5MTUxNjUzMjcsMTkyOTMwMTA1MSwyMzc0NzUxNjAs
-LTE0NDk5NzEzMTAsMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzOD
-UzOTY3MzQsMTc2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEw
-NjUsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMD
+M1NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2
+MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMT
+M4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2NjcxMzEsLTk4NTQz
+MTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLTE1MDI5MzIzXX
+0=
 -->
