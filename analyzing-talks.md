@@ -37,17 +37,18 @@ Even better than screenshots is a separate instance where the changes are deploy
 2.	When to do code reviews
 -	as early as possible
 -	during the sprint
--	new developer joined -
+-	new changes (developer joined or technology / method changed) -> more detailed review
 4.	How to do code reviews
+-	pair programm
 5.	What do you look for in code reviews
 
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDEwMzYyOTMsLTIwMzU0MDU4ODIsOT
-E1MTY1MzI3LDE5MjkzMDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcx
-MzEwLDE3NTA3MDIyOTIsMTAxODExMzg2MSwxMzg1Mzk2NzM0LD
-E3NjY3ODMzOTIsMTg5MTY2NzEzMSwtOTg1NDMxMDY1LDExMjk2
-NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
+eyJoaXN0b3J5IjpbOTM4Mjk2ODEzLC0yMDM1NDA1ODgyLDkxNT
+E2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3MTMx
+MCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4NTM5NjczNCwxNz
+Y2NzgzMzkyLDE4OTE2NjcxMzEsLTk4NTQzMTA2NSwxMTI5NjQ1
+NTgxLDE5MDczNzk5NjEsLTE1MDI5MzIzXX0=
 -->
