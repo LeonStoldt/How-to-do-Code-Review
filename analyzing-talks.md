@@ -16,7 +16,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 12. The more lines of code a merge request has, the less amount of time will be spend by the reviewer. So keep the reviews as small as possible and push changes incrementally.
 
 - [https://www.atlassian.com/blog/archives/git-guilt-blame-code-review](https://www.atlassian.com/blog/archives/git-guilt-blame-code-review)
-	- amazing
+	- code review is an amazing tool to increase code quality
 - [https://www.atlassian.com/blog/archives/creating_optimal_reviews](https://www.atlassian.com/blog/archives/creating_optimal_reviews)
 
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
@@ -68,7 +68,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMDkxMjg1LC00Njk1NDA0NDYsMTcwND
+eyJoaXN0b3J5IjpbMzc2MzE4ODY0LC00Njk1NDA0NDYsMTcwND
 UyNDEyOCwtMjAzNTQwNTg4Miw5MTUxNjUzMjcsMTkyOTMwMTA1
 MSwyMzc0NzUxNjAsLTE0NDk5NzEzMTAsMTc1MDcwMjI5MiwxMD
 E4MTEzODYxLDEzODUzOTY3MzQsMTc2Njc4MzM5MiwxODkxNjY3
