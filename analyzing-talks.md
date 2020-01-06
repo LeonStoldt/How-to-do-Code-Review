@@ -119,13 +119,14 @@ Notes:
 	-	$+$ Reduction of manual effort (find all vulnerabilities especially in large code base)
 	-	$-$ Business logic and design mistakes will not be identified
 	-	$-$ False positives
-
+-	Code review has a social component
+-	good code reviewer requires good social skills
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTk2NzA5Miw3NTkzNDcxMiwtMTc1OT
-AwMDA1MSwtMTI5NDU2Njk5OCwxMjA0NDMyNjQxLDEwMTY4ODQ4
-NSwtNjY2ODMzNzgzLC0xNzQzNTE2MTIwLC01Mzc5MTU4OTksMT
-Q2MDEzMzk2MCwtNDY5NTQwNDQ2LDE3MDQ1MjQxMjgsLTIwMzU0
-MDU4ODIsOTE1MTY1MzI3LDE5MjkzMDEwNTEsMjM3NDc1MTYwLC
-0xNDQ5OTcxMzEwLDE3NTA3MDIyOTIsMTAxODExMzg2MSwxMzg1
-Mzk2NzM0XX0=
+eyJoaXN0b3J5IjpbMjEyMzk5MTk0NSwtNjY5OTY3MDkyLDc1OT
+M0NzEyLC0xNzU5MDAwMDUxLC0xMjk0NTY2OTk4LDEyMDQ0MzI2
+NDEsMTAxNjg4NDg1LC02NjY4MzM3ODMsLTE3NDM1MTYxMjAsLT
+UzNzkxNTg5OSwxNDYwMTMzOTYwLC00Njk1NDA0NDYsMTcwNDUy
+NDEyOCwtMjAzNTQwNTg4Miw5MTUxNjUzMjcsMTkyOTMwMTA1MS
+wyMzc0NzUxNjAsLTE0NDk5NzEzMTAsMTc1MDcwMjI5MiwxMDE4
+MTEzODYxXX0=
 -->
