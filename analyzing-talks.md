@@ -86,6 +86,8 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -	[https://www.deepcode.ai/](https://www.deepcode.ai/)
 
+---
+
 [JavaLand]([https://www.doag.org/formes/pubfiles/6774263/2015-null-Rabea_Gransberger-Code_Reviews__Techniken_und_Tipps-Praesentation.pdf](https://www.doag.org/formes/pubfiles/6774263/2015-null-Rabea_Gransberger-Code_Reviews__Techniken_und_Tipps-Praesentation.pdf))
 -	static code analysis tools
 	-	FindBugs
@@ -101,12 +103,17 @@ Notes:
 	-	Gerrit
 	-	Jetbrains Upsource
 	-	Klocwork Cahoots
+
+[OWASP Code Review Guide](https://www.owasp.org/images/5/53/OWASP_Code_Review_Guide_v2.pdf)
+-	Code Review Checklist
+	-	D
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MzQ3MTIsLTE3NTkwMDAwNTEsLTEyOT
-Q1NjY5OTgsMTIwNDQzMjY0MSwxMDE2ODg0ODUsLTY2NjgzMzc4
-MywtMTc0MzUxNjEyMCwtNTM3OTE1ODk5LDE0NjAxMzM5NjAsLT
-Q2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMDM1NDA1ODgyLDkxNTE2
-NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3MTMxMC
-wxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4NTM5NjczNCwxNzY2
-NzgzMzkyXX0=
+eyJoaXN0b3J5IjpbLTEzMzkzNDM4MjAsNzU5MzQ3MTIsLTE3NT
+kwMDAwNTEsLTEyOTQ1NjY5OTgsMTIwNDQzMjY0MSwxMDE2ODg0
+ODUsLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNTM3OTE1ODk5LD
+E0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMDM1
+NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MC
+wtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4
+NTM5NjczNF19
 -->
