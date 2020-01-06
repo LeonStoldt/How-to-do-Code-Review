@@ -76,7 +76,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	Sorgen für eine Erhöhung der Softwarequalität und -Produktivität
 -	unabhängiges und universelles Hilfmittel
 -	Schritte eines Reviews:
-	-	Planung 
+	-	Planung (
 	-	Einführung
 	-	Vorbereitung
 	-	Inspektion
@@ -86,11 +86,11 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ1NjY5OTgsMTIwNDQzMjY0MSwxMD
-E2ODg0ODUsLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNTM3OTE1
-ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC
-0yMDM1NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3
-NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4Nj
-EsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2NjcxMzEsLTk4
-NTQzMTA2NV19
+eyJoaXN0b3J5IjpbLTM3NjI5NDU0NiwtMTI5NDU2Njk5OCwxMj
+A0NDMyNjQxLDEwMTY4ODQ4NSwtNjY2ODMzNzgzLC0xNzQzNTE2
+MTIwLC01Mzc5MTU4OTksMTQ2MDEzMzk2MCwtNDY5NTQwNDQ2LD
+E3MDQ1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LDE5Mjkz
+MDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3MDIyOT
+IsMTAxODExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMzOTIsMTg5
+MTY2NzEzMV19
 -->
