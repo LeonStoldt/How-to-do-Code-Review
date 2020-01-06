@@ -39,16 +39,19 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	during the sprint
 -	new changes (developer joined or technology / method changed) -> more detailed review
 4.	How to do code reviews
--	pair programm
+-	pair programming reviews
+-	sometimes fixing something directly can safe time instead of writing a comment
+-	static code analysis tools (e.g. sonar)
+-	J
 5.	What do you look for in code reviews
 
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4Mjk2ODEzLC0yMDM1NDA1ODgyLDkxNT
-E2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3MTMx
-MCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4NTM5NjczNCwxNz
-Y2NzgzMzkyLDE4OTE2NjcxMzEsLTk4NTQzMTA2NSwxMTI5NjQ1
-NTgxLDE5MDczNzk5NjEsLTE1MDI5MzIzXX0=
+eyJoaXN0b3J5IjpbMTA4Mjc1MTcwOSwtMjAzNTQwNTg4Miw5MT
+UxNjUzMjcsMTkyOTMwMTA1MSwyMzc0NzUxNjAsLTE0NDk5NzEz
+MTAsMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3MzQsMT
+c2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNjUsMTEyOTY0
+NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
 -->
