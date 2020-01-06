@@ -21,7 +21,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 	- spread information and knowledge around the team
 	- responsibility for the code is spread to more than one person
 - [https://www.atlassian.com/blog/archives/creating_optimal_reviews](https://www.atlassian.com/blog/archives/creating_optimal_reviews)
-	-	do not overload the code review (e.g. too many files) - this causes less time spent per file](http://atlassianblog.wpengine.com/developer/assets_c/2011/07/mt-perfile-thumb-500x264-7288.png)
+	-	do not overload the code review (e.g. too many files) - this causes [less time spent per file](http://atlassianblog.wpengine.com/developer/assets_c/2011/07/mt-perfile-thumb-500x264-7288.png)
 	-	do not review with too many reviewers
 
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
@@ -73,10 +73,10 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3NDIzNjk1LC01Mzc5MTU4OTksMTQ2MD
-EzMzk2MCwtNDY5NTQwNDQ2LDE3MDQ1MjQxMjgsLTIwMzU0MDU4
-ODIsOTE1MTY1MzI3LDE5MjkzMDEwNTEsMjM3NDc1MTYwLC0xND
-Q5OTcxMzEwLDE3NTA3MDIyOTIsMTAxODExMzg2MSwxMzg1Mzk2
-NzM0LDE3NjY3ODMzOTIsMTg5MTY2NzEzMSwtOTg1NDMxMDY1LD
-ExMjk2NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDM1MTYxMjAsLTUzNzkxNTg5OSwxND
+YwMTMzOTYwLC00Njk1NDA0NDYsMTcwNDUyNDEyOCwtMjAzNTQw
+NTg4Miw5MTUxNjUzMjcsMTkyOTMwMTA1MSwyMzc0NzUxNjAsLT
+E0NDk5NzEzMTAsMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUz
+OTY3MzQsMTc2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNj
+UsMTEyOTY0NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
 -->
