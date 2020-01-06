@@ -51,15 +51,15 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	design
 	-	interaction between classes
 	-	unit tests
-	-	programming principles (e.g. OOPs
+	-	programming principles (
 
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDA0ODI4NSwtMjAzNTQwNTg4Miw5MT
-UxNjUzMjcsMTkyOTMwMTA1MSwyMzc0NzUxNjAsLTE0NDk5NzEz
-MTAsMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3MzQsMT
-c2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNjUsMTEyOTY0
-NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbNDUyNjM1MDUyLC0yMDM1NDA1ODgyLDkxNT
+E2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3MTMx
+MCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4NTM5NjczNCwxNz
+Y2NzgzMzkyLDE4OTE2NjcxMzEsLTk4NTQzMTA2NSwxMTI5NjQ1
+NTgxLDE5MDczNzk5NjEsLTE1MDI5MzIzXX0=
 -->
