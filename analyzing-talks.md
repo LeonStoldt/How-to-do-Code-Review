@@ -73,15 +73,16 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	language specifics
 
 [Bundesamt für Sicherheit in der Informationstechnik: Software](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Hochverfuegbarkeit/BandB/B9_Software.pdf?__blob=publicationFile&v=1)
+-	Erhöhung der Softwarequalität und -Produktivität
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDQzMjY0MSwxMDE2ODg0ODUsLTY2Nj
-gzMzc4MywtMTc0MzUxNjEyMCwtNTM3OTE1ODk5LDE0NjAxMzM5
-NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMDM1NDA1ODgyLD
-kxNTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3
-MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4NTM5NjczNC
-wxNzY2NzgzMzkyLDE4OTE2NjcxMzEsLTk4NTQzMTA2NSwxMTI5
-NjQ1NTgxXX0=
+eyJoaXN0b3J5IjpbLTIxMTg3OTM3MzIsMTIwNDQzMjY0MSwxMD
+E2ODg0ODUsLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNTM3OTE1
+ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC
+0yMDM1NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3
+NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4Nj
+EsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2NjcxMzEsLTk4
+NTQzMTA2NV19
 -->
