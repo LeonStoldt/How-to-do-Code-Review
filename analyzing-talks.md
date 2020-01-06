@@ -106,10 +106,19 @@ Notes:
 
 [OWASP Code Review Guide](https://www.owasp.org/images/5/53/OWASP_Code_Review_Guide_v2.pdf)
 -	Code Review Checklist
-	-	D
+	-	Data Validation
+	-	Authentication
+	-	Session Management
+	-	Authorization
+	-	Cryptography
+	-	Error Handling
+	-	Logging
+	-	Security Configuration
+	-	Architecture
+-	Static Code Analy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkzNDM4MjAsNzU5MzQ3MTIsLTE3NT
+eyJoaXN0b3J5IjpbLTIwNDUzMDg5MzcsNzU5MzQ3MTIsLTE3NT
 kwMDAwNTEsLTEyOTQ1NjY5OTgsMTIwNDQzMjY0MSwxMDE2ODg0
 ODUsLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNTM3OTE1ODk5LD
 E0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMDM1
