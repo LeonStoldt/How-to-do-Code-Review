@@ -72,15 +72,16 @@ Even better than screenshots is a separate instance where the changes are deploy
 	-	object creation
 -	language specifics
 
+[Bundesamt für Sicherheit in der Informationstechnik: Software](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Hochverfuegbarkeit/BandB/B9_Software.pdf?__blob=publicationFile&v=1)
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjg4NDg1LC02NjY4MzM3ODMsLTE3ND
-M1MTYxMjAsLTUzNzkxNTg5OSwxNDYwMTMzOTYwLC00Njk1NDA0
-NDYsMTcwNDUyNDEyOCwtMjAzNTQwNTg4Miw5MTUxNjUzMjcsMT
-kyOTMwMTA1MSwyMzc0NzUxNjAsLTE0NDk5NzEzMTAsMTc1MDcw
-MjI5MiwxMDE4MTEzODYxLDEzODUzOTY3MzQsMTc2Njc4MzM5Mi
-wxODkxNjY3MTMxLC05ODU0MzEwNjUsMTEyOTY0NTU4MSwxOTA3
-Mzc5OTYxXX0=
+eyJoaXN0b3J5IjpbMTIwNDQzMjY0MSwxMDE2ODg0ODUsLTY2Nj
+gzMzc4MywtMTc0MzUxNjEyMCwtNTM3OTE1ODk5LDE0NjAxMzM5
+NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMDM1NDA1ODgyLD
+kxNTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3
+MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4NTM5NjczNC
+wxNzY2NzgzMzkyLDE4OTE2NjcxMzEsLTk4NTQzMTA2NSwxMTI5
+NjQ1NTgxXX0=
 -->
