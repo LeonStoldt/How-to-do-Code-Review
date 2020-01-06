@@ -84,13 +84,21 @@ Even better than screenshots is a separate instance where the changes are deploy
 	-	Nacharbeit (Prüfung ob alle Fehler behoben wurden und Auswirkungen protokolliert wurden)
 
 Notes:
--[https://www.deepcode.ai/](https://www.deepcode.ai/)
+-	[https://www.deepcode.ai/](https://www.deepcode.ai/)
+
+[JavaLand]([https://www.doag.org/formes/pubfiles/6774263/2015-null-Rabea_Gransberger-Code_Reviews__Techniken_und_Tipps-Praesentation.pdf](https://www.doag.org/formes/pubfiles/6774263/2015-null-Rabea_Gransberger-Code_Reviews__Techniken_und_Tipps-Praesentation.pdf))
+-	static code analysis tools
+	-	FindBugs
+	-	CheckStyle
+	-	PMD
+	-	SonarQube
+	-	Coverity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkwMDAwNTEsLTEyOTQ1NjY5OTgsMT
-IwNDQzMjY0MSwxMDE2ODg0ODUsLTY2NjgzMzc4MywtMTc0MzUx
-NjEyMCwtNTM3OTE1ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0Ni
-wxNzA0NTI0MTI4LC0yMDM1NDA1ODgyLDkxNTE2NTMyNywxOTI5
-MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMj
-kyLDEwMTgxMTM4NjEsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4
-OTE2NjcxMzFdfQ==
+eyJoaXN0b3J5IjpbLTE0MDgyNDM1MjMsLTE3NTkwMDAwNTEsLT
+EyOTQ1NjY5OTgsMTIwNDQzMjY0MSwxMDE2ODg0ODUsLTY2Njgz
+Mzc4MywtMTc0MzUxNjEyMCwtNTM3OTE1ODk5LDE0NjAxMzM5Nj
+AsLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMDM1NDA1ODgyLDkx
+NTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3MT
+MxMCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4NTM5NjczNCwx
+NzY2NzgzMzkyXX0=
 -->
