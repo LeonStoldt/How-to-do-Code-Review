@@ -122,8 +122,10 @@ Notes:
 -	Code review has a social component
 -	good code reviewer requires good social skills
 	-	you do not need to find mistakes if there is none
+	-	do not rush a code review
+	-	as reviewer you need o 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MTc1MTU3LC02Njk5NjcwOTIsNzU5Mz
+eyJoaXN0b3J5IjpbODgxNzUwMjMyLC02Njk5NjcwOTIsNzU5Mz
 Q3MTIsLTE3NTkwMDAwNTEsLTEyOTQ1NjY5OTgsMTIwNDQzMjY0
 MSwxMDE2ODg0ODUsLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNT
 M3OTE1ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0
