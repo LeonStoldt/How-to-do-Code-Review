@@ -28,7 +28,6 @@ Even better than screenshots is a separate instance where the changes are deploy
 		-	select reviewers carefully
 		-	tell reviewers individually what they should review
 
-
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
 1. The reviewer should not concern about whether the code compiles or not, so provide an automated CI-pipeline to guarantee compiling and tested code.
 2. As a team you should agree on code review goals before and checking the definied aspects explicitly on each review.
@@ -78,11 +77,11 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNT
-M3OTE1ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0
-MTI4LC0yMDM1NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLD
-IzNzQ3NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgx
-MTM4NjEsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2NjcxMz
-EsLTk4NTQzMTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLTE1
-MDI5MzIzXX0=
+eyJoaXN0b3J5IjpbMTgxODg1MDIzMSwtNjY2ODMzNzgzLC0xNz
+QzNTE2MTIwLC01Mzc5MTU4OTksMTQ2MDEzMzk2MCwtNDY5NTQw
+NDQ2LDE3MDQ1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LD
+E5MjkzMDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3
+MDIyOTIsMTAxODExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMzOT
+IsMTg5MTY2NzEzMSwtOTg1NDMxMDY1LDExMjk2NDU1ODEsMTkw
+NzM3OTk2MV19
 -->
