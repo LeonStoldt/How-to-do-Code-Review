@@ -35,7 +35,9 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	it adds value to your team / people by sharing knowledge and gaining new experiences among each other
 -	it adds value to your team by identifying best practices and common patterns / mistakes
 2.	When to do code reviews
--	early
+-	as early as possible
+-	during the sprint
+-	new developer joined -
 4.	How to do code reviews
 5.	What do you look for in code reviews
 
@@ -43,9 +45,9 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTI0NjYzMiwtMjAzNTQwNTg4Miw5MT
-UxNjUzMjcsMTkyOTMwMTA1MSwyMzc0NzUxNjAsLTE0NDk5NzEz
-MTAsMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3MzQsMT
-c2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNjUsMTEyOTY0
-NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
+eyJoaXN0b3J5IjpbLTE5MDEwMzYyOTMsLTIwMzU0MDU4ODIsOT
+E1MTY1MzI3LDE5MjkzMDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcx
+MzEwLDE3NTA3MDIyOTIsMTAxODExMzg2MSwxMzg1Mzk2NzM0LD
+E3NjY3ODMzOTIsMTg5MTY2NzEzMSwtOTg1NDMxMDY1LDExMjk2
+NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
 -->
