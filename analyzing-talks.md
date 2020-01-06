@@ -38,21 +38,24 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	as early as possible
 -	during the sprint
 -	new changes (developer joined or technology / method changed) -> more detailed review
-4.	How to do code reviews
+3.	How to do code reviews
 -	pair programming reviews
 -	sometimes fixing something directly can safe time instead of writing a comment
--	static code analysis tools (e.g. sonar)
+-	static code analysis tools (e.g. sonar) can help
 -	JUnit tests can be an indicator of the complexity of code (easy tests -> easy code)
--	
-5.	What do you look for in code reviews
+4.	What do you look for in code reviews
+-	architecture
+	-	communication
+	-	chosen frameworks
+	-	tes
 
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY0NTU2MzgsLTIwMzU0MDU4ODIsOT
-E1MTY1MzI3LDE5MjkzMDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcx
-MzEwLDE3NTA3MDIyOTIsMTAxODExMzg2MSwxMzg1Mzk2NzM0LD
-E3NjY3ODMzOTIsMTg5MTY2NzEzMSwtOTg1NDMxMDY1LDExMjk2
-NDU1ODEsMTkwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
+eyJoaXN0b3J5IjpbMTU2Mzk0MDc4MCwtMjAzNTQwNTg4Miw5MT
+UxNjUzMjcsMTkyOTMwMTA1MSwyMzc0NzUxNjAsLTE0NDk5NzEz
+MTAsMTc1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3MzQsMT
+c2Njc4MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNjUsMTEyOTY0
+NTU4MSwxOTA3Mzc5OTYxLC0xNTAyOTMyM119
 -->
