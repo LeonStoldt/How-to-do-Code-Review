@@ -79,14 +79,14 @@ Even better than screenshots is a separate instance where the changes are deploy
 	-	Planung (Prüfung der Bedingungen und Verteilungen des Codes)
 	-	Einführung (Meeting zur Vorbereitung der Reviewer auf den Code)
 	-	Vorbereitung (Verständnis schaffen bei den jeweiligen Reviewern)
-	-	Inspektion ()
-	-	Korrektur
+	-	Inspektion (Analyse des Codes und Protokollierung durch den Autor)
+	-	Korrektur ()
 	-	Nacharbeit
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTk3NTQ4NSwtMTI5NDU2Njk5OCwxMj
+eyJoaXN0b3J5IjpbLTc0MTkwOTE1NiwtMTI5NDU2Njk5OCwxMj
 A0NDMyNjQxLDEwMTY4ODQ4NSwtNjY2ODMzNzgzLC0xNzQzNTE2
 MTIwLC01Mzc5MTU4OTksMTQ2MDEzMzk2MCwtNDY5NTQwNDQ2LD
 E3MDQ1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LDE5Mjkz
