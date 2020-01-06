@@ -19,6 +19,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 	- code review is an amazing tool to increase code quality
 	- higher chance of finding bugs and reduce technical debt before product delivery
 	- spread information and knowledge around the team
+	- responsibility for the code is spread to more than one person
 - [https://www.atlassian.com/blog/archives/creating_optimal_reviews](https://www.atlassian.com/blog/archives/creating_optimal_reviews)
 
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
@@ -70,7 +71,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzcyMjIxNiwxNDYwMTMzOTYwLC00Nj
+eyJoaXN0b3J5IjpbLTUzNzkxNTg5OSwxNDYwMTMzOTYwLC00Nj
 k1NDA0NDYsMTcwNDUyNDEyOCwtMjAzNTQwNTg4Miw5MTUxNjUz
 MjcsMTkyOTMwMTA1MSwyMzc0NzUxNjAsLTE0NDk5NzEzMTAsMT
 c1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3MzQsMTc2Njc4
