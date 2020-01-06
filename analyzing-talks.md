@@ -123,13 +123,14 @@ Notes:
 -	good code reviewer requires good social skills
 	-	you do not need to find mistakes if there is none
 	-	do not rush a code review
-	-	as reviewer you need o 
+	-	as reviewer you need to know what is expected - which aspects should be reviewed? (style, security, maintainability, functionality)
+	-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNzUwMjMyLC02Njk5NjcwOTIsNzU5Mz
-Q3MTIsLTE3NTkwMDAwNTEsLTEyOTQ1NjY5OTgsMTIwNDQzMjY0
-MSwxMDE2ODg0ODUsLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNT
-M3OTE1ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0
-MTI4LC0yMDM1NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLD
-IzNzQ3NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgx
-MTM4NjFdfQ==
+eyJoaXN0b3J5IjpbMzkyOTU2MzEsLTY2OTk2NzA5Miw3NTkzND
+cxMiwtMTc1OTAwMDA1MSwtMTI5NDU2Njk5OCwxMjA0NDMyNjQx
+LDEwMTY4ODQ4NSwtNjY2ODMzNzgzLC0xNzQzNTE2MTIwLC01Mz
+c5MTU4OTksMTQ2MDEzMzk2MCwtNDY5NTQwNDQ2LDE3MDQ1MjQx
+MjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LDE5MjkzMDEwNTEsMj
+M3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3MDIyOTIsMTAxODEx
+Mzg2MV19
 -->
