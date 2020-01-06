@@ -76,8 +76,8 @@ Even better than screenshots is a separate instance where the changes are deploy
 -	Sorgen für eine Erhöhung der Softwarequalität und -Produktivität
 -	unabhängiges und universelles Hilfmittel
 -	Schritte eines Reviews:
-	-	Planung (
-	-	Einführung
+	-	Planung (Prüfung der Bedingungen und Verteilungen des Codes)
+	-	Einführung (Meeting zur Vorber)
 	-	Vorbereitung
 	-	Inspektion
 	-	Korrektur
@@ -86,7 +86,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjI5NDU0NiwtMTI5NDU2Njk5OCwxMj
+eyJoaXN0b3J5IjpbLTU5NDU1ODI2MiwtMTI5NDU2Njk5OCwxMj
 A0NDMyNjQxLDEwMTY4ODQ4NSwtNjY2ODMzNzgzLC0xNzQzNTE2
 MTIwLC01Mzc5MTU4OTksMTQ2MDEzMzk2MCwtNDY5NTQwNDQ2LD
 E3MDQ1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LDE5Mjkz
