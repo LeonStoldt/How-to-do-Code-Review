@@ -18,7 +18,7 @@ Even better than screenshots is a separate instance where the changes are deploy
 - [https://www.atlassian.com/blog/archives/git-guilt-blame-code-review](https://www.atlassian.com/blog/archives/git-guilt-blame-code-review)
 	- code review is an amazing tool to increase code quality
 	- higher chance of finding bugs and reduce technical debt before product delivery
-	- 
+	- spread information and knowledge around the team
 - [https://www.atlassian.com/blog/archives/creating_optimal_reviews](https://www.atlassian.com/blog/archives/creating_optimal_reviews)
 
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
@@ -70,10 +70,10 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAxMjU1NjMsMTQ2MDEzMzk2MCwtND
-Y5NTQwNDQ2LDE3MDQ1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1
-MzI3LDE5MjkzMDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLD
-E3NTA3MDIyOTIsMTAxODExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3
-ODMzOTIsMTg5MTY2NzEzMSwtOTg1NDMxMDY1LDExMjk2NDU1OD
-EsMTkwNzM3OTk2MSwtMTUwMjkzMjNdfQ==
+eyJoaXN0b3J5IjpbLTc2MzcyMjIxNiwxNDYwMTMzOTYwLC00Nj
+k1NDA0NDYsMTcwNDUyNDEyOCwtMjAzNTQwNTg4Miw5MTUxNjUz
+MjcsMTkyOTMwMTA1MSwyMzc0NzUxNjAsLTE0NDk5NzEzMTAsMT
+c1MDcwMjI5MiwxMDE4MTEzODYxLDEzODUzOTY3MzQsMTc2Njc4
+MzM5MiwxODkxNjY3MTMxLC05ODU0MzEwNjUsMTEyOTY0NTU4MS
+wxOTA3Mzc5OTYxLC0xNTAyOTMyM119
 -->
