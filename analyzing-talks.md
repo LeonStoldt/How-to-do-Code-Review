@@ -15,7 +15,7 @@
 Even better than screenshots is a separate instance where the changes are deployed.
 12. The more lines of code a merge request has, the less amount of time will be spend by the reviewer. So keep the reviews as small as possible and push changes incrementally.
 
-- https://www.atlassian.com/blog/archives/git-guilt-blame-code-review](https://www.atlassian.com/blog/archives/git-guilt-blame-code-review)
+- [https://www.atlassian.com/blog/archives/git-guilt-blame-code-review](https://www.atlassian.com/blog/archives/git-guilt-blame-code-review)
 - [https://www.atlassian.com/blog/archives/creating_optimal_reviews](https://www.atlassian.com/blog/archives/creating_optimal_reviews)
 
 ## [JetBrains Best Practices](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
@@ -67,10 +67,10 @@ Even better than screenshots is a separate instance where the changes are deploy
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMD
-M1NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2
-MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMT
-M4NTM5NjczNCwxNzY2NzgzMzkyLDE4OTE2NjcxMzEsLTk4NTQz
-MTA2NSwxMTI5NjQ1NTgxLDE5MDczNzk5NjEsLTE1MDI5MzIzXX
-0=
+eyJoaXN0b3J5IjpbMTY1MzQ2Mjg5NSwtNDY5NTQwNDQ2LDE3MD
+Q1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LDE5MjkzMDEw
+NTEsMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3MDIyOTIsMT
+AxODExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMzOTIsMTg5MTY2
+NzEzMSwtOTg1NDMxMDY1LDExMjk2NDU1ODEsMTkwNzM3OTk2MS
+wtMTUwMjkzMjNdfQ==
 -->
