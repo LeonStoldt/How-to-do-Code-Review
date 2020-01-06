@@ -79,18 +79,18 @@ Even better than screenshots is a separate instance where the changes are deploy
 	-	Planung (Prüfung der Bedingungen und Verteilungen des Codes)
 	-	Einführung (Meeting zur Vorbereitung der Reviewer auf den Code)
 	-	Vorbereitung (Verständnis schaffen bei den jeweiligen Reviewern)
-	-	Inspektion
+	-	Inspektion ()
 	-	Korrektur
 	-	Nacharbeit
 
 Notes:
 -[https://www.deepcode.ai/](https://www.deepcode.ai/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU2NDQwNzAsLTEyOTQ1NjY5OTgsMT
-IwNDQzMjY0MSwxMDE2ODg0ODUsLTY2NjgzMzc4MywtMTc0MzUx
-NjEyMCwtNTM3OTE1ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0Ni
-wxNzA0NTI0MTI4LC0yMDM1NDA1ODgyLDkxNTE2NTMyNywxOTI5
-MzAxMDUxLDIzNzQ3NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMj
-kyLDEwMTgxMTM4NjEsMTM4NTM5NjczNCwxNzY2NzgzMzkyLDE4
-OTE2NjcxMzFdfQ==
+eyJoaXN0b3J5IjpbLTM3MTk3NTQ4NSwtMTI5NDU2Njk5OCwxMj
+A0NDMyNjQxLDEwMTY4ODQ4NSwtNjY2ODMzNzgzLC0xNzQzNTE2
+MTIwLC01Mzc5MTU4OTksMTQ2MDEzMzk2MCwtNDY5NTQwNDQ2LD
+E3MDQ1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LDE5Mjkz
+MDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3MDIyOT
+IsMTAxODExMzg2MSwxMzg1Mzk2NzM0LDE3NjY3ODMzOTIsMTg5
+MTY2NzEzMV19
 -->
