@@ -117,14 +117,15 @@ Notes:
 	-	Architecture
 -	Static Code Analysis
 	-	$+$ Reduction of manual effort (find all vulnerabilities especially in large code base)
-	-	$-$ s
+	-	$-$ Business logic and design mistakes will not be identified
+	-	$-$ False positives
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkyNTI2NjUsNzU5MzQ3MTIsLTE3NT
-kwMDAwNTEsLTEyOTQ1NjY5OTgsMTIwNDQzMjY0MSwxMDE2ODg0
-ODUsLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNTM3OTE1ODk5LD
-E0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0MTI4LC0yMDM1
-NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLDIzNzQ3NTE2MC
-wtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgxMTM4NjEsMTM4
-NTM5NjczNF19
+eyJoaXN0b3J5IjpbLTY2OTk2NzA5Miw3NTkzNDcxMiwtMTc1OT
+AwMDA1MSwtMTI5NDU2Njk5OCwxMjA0NDMyNjQxLDEwMTY4ODQ4
+NSwtNjY2ODMzNzgzLC0xNzQzNTE2MTIwLC01Mzc5MTU4OTksMT
+Q2MDEzMzk2MCwtNDY5NTQwNDQ2LDE3MDQ1MjQxMjgsLTIwMzU0
+MDU4ODIsOTE1MTY1MzI3LDE5MjkzMDEwNTEsMjM3NDc1MTYwLC
+0xNDQ5OTcxMzEwLDE3NTA3MDIyOTIsMTAxODExMzg2MSwxMzg1
+Mzk2NzM0XX0=
 -->
