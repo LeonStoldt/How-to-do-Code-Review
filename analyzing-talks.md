@@ -124,13 +124,12 @@ Notes:
 	-	you do not need to find mistakes if there is none
 	-	do not rush a code review
 	-	as reviewer you need to know what is expected - which aspects should be reviewed? (security, maintainability, functionality, style - are there company standards?)
-	-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjU1NzM4LC02Njk5NjcwOTIsNzU5Mz
-Q3MTIsLTE3NTkwMDAwNTEsLTEyOTQ1NjY5OTgsMTIwNDQzMjY0
-MSwxMDE2ODg0ODUsLTY2NjgzMzc4MywtMTc0MzUxNjEyMCwtNT
-M3OTE1ODk5LDE0NjAxMzM5NjAsLTQ2OTU0MDQ0NiwxNzA0NTI0
-MTI4LC0yMDM1NDA1ODgyLDkxNTE2NTMyNywxOTI5MzAxMDUxLD
-IzNzQ3NTE2MCwtMTQ0OTk3MTMxMCwxNzUwNzAyMjkyLDEwMTgx
-MTM4NjFdfQ==
+eyJoaXN0b3J5IjpbLTk2NjQ5Mjg2NSwxNDAyNTU3MzgsLTY2OT
+k2NzA5Miw3NTkzNDcxMiwtMTc1OTAwMDA1MSwtMTI5NDU2Njk5
+OCwxMjA0NDMyNjQxLDEwMTY4ODQ4NSwtNjY2ODMzNzgzLC0xNz
+QzNTE2MTIwLC01Mzc5MTU4OTksMTQ2MDEzMzk2MCwtNDY5NTQw
+NDQ2LDE3MDQ1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LD
+E5MjkzMDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3
+MDIyOTJdfQ==
 -->
