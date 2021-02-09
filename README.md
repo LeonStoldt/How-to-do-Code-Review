@@ -1,4 +1,10 @@
-# Code Review - Best Practices
+# How to do Code Review
+
+> This repository contains some notes for an article I wrote about how code reviews can be implemented in the daily workflow, discussing what factors are importent. The following notes were created by analyzing talks of well known companies to get a first impression of what they are doing.
+
+---
+
+## Code Review - Best Practices
 
 ## [Atlassian Summit 2016](https://www.youtube.com/watch?v=fatTnX8_ZRk&t=5s)
 1.	Restrict the scope of a merge request to one issue (implies well-designed issues in view of size).
@@ -124,12 +130,3 @@ Notes:
 	-	you do not need to find mistakes if there is none
 	-	do not rush a code review
 	-	as reviewer you need to know what is expected - which aspects should be reviewed? (security, maintainability, functionality, style - are there company standards?)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjQ5Mjg2NSwxNDAyNTU3MzgsLTY2OT
-k2NzA5Miw3NTkzNDcxMiwtMTc1OTAwMDA1MSwtMTI5NDU2Njk5
-OCwxMjA0NDMyNjQxLDEwMTY4ODQ4NSwtNjY2ODMzNzgzLC0xNz
-QzNTE2MTIwLC01Mzc5MTU4OTksMTQ2MDEzMzk2MCwtNDY5NTQw
-NDQ2LDE3MDQ1MjQxMjgsLTIwMzU0MDU4ODIsOTE1MTY1MzI3LD
-E5MjkzMDEwNTEsMjM3NDc1MTYwLC0xNDQ5OTcxMzEwLDE3NTA3
-MDIyOTJdfQ==
--->
