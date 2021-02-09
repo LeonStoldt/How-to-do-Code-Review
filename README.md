@@ -2,6 +2,8 @@
 
 > This repository contains some notes for an article I wrote about how code reviews can be implemented in the daily workflow, discussing what factors are importent. The following notes were created by analyzing talks of well known companies to get a first impression of what they are doing.
 
+See also: [Awesome-Code-Review](https://github.com/LeonStoldt/awesome-code-review)
+
 ---
 
 ## Code Review - Best Practices
